@@ -1,5 +1,5 @@
 <h1>Hi, I'm Gandhi 👋</h1>
-<h3>I'm a full stack developer with experience in front-end development, back-end development. I enjoy working on nextjs and nodejs</h3>
+<h3>I'm a full stack developer with experience in front-end development, back-end development. I enjoy working with new people</h3>
 
 🔭 Current Projects
 
