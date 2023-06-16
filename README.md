@@ -1,18 +1,4 @@
-<div id="lottie-container"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/lottie-web@^5.7.12/build/player/lottie.min.js"></script>
-
-<script>
-const animationDataUrl = "https://assets2.lottiefiles.com/packages/lf20_vxumuqkl.json";
-const container = document.getElementById("lottie-container");
-const animation = lottie.loadAnimation({
-    container: container,
-    renderer: "svg",
-    loop: true,
-    autoplay: true,
-    path: animationDataUrl
-});
-</script>
+<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/dgxkm6xef/image/upload/v1686906262/animation640_s16wps.gif" >
 
 <h1 align="center">Hi 👋, I'm Gandhi</h1>
 <h3 align="center">Intresting To Build
