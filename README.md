@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/dgxkm6xef/image/upload/v1686906262/animation640_s16wps.gif" >
-
 <h1 align="center">Hi 👋, I'm Gandhi</h1>
 <h3 align="center">Intresting To Build
 Unique Website,Application
