@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gandhi</h1>
-<h3 align="center">Intresting To Build
+<h1 align="">Hi 👋, I'm Gandhi</h1>
+<h3 align="">Intresting To Build
 Unique Website,Application
 And Experience</h3>
 
