@@ -7,7 +7,7 @@ And Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gandhisurya&label=Profile%20views&color=0e75b6&style=flat" alt="imtiyazcode" /> </p>
 
-- 🔭 I’m currently working at **Pepul Tech Private LTD**
+- 🔭 I’m currently working at **Pepul Tech Private Ltd**
 
 - 🌱 I’m currently learning **NextJs , GrapgQl**
 
