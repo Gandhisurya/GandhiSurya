@@ -1,4 +1,18 @@
-<img aligh="center" alt="Coding" width="1080" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" >
+<div id="lottie-container"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/lottie-web@^5.7.12/build/player/lottie.min.js"></script>
+
+<script>
+const animationDataUrl = "https://assets2.lottiefiles.com/packages/lf20_vxumuqkl.json";
+const container = document.getElementById("lottie-container");
+const animation = lottie.loadAnimation({
+    container: container,
+    renderer: "svg",
+    loop: true,
+    autoplay: true,
+    path: animationDataUrl
+});
+</script>
 
 <h1 align="center">Hi 👋, I'm Imtiyaz Nandasaniya</h1>
 <h3 align="center">A passionate React developer from India.</h3>
