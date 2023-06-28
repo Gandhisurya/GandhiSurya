@@ -9,7 +9,7 @@ And Experience</h3>
 
 - 🔭 I’m currently working at **Pepul Tech Private Ltd**
 
-- 🌱 I’m currently learning **NextJs , GrapgQl**
+- 🌱 I’m currently learning **NextJs , GraphQl**
 
 - 💬 Ask me about **Javascript, NextJs , ExpressJs**
 
