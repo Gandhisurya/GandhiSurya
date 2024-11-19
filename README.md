@@ -10,5 +10,3 @@ Also Experience</h3>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gandhisurya&show_icons=true&locale=en&layout=compact" alt="Gandhisurya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gandhisurya&" alt="imtiyazcode" /></p>
